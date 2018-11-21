@@ -14,3 +14,5 @@
 <a href="https://repl.it/@Serega89Kh/function18">Самостоятельная работа 2.4(2)</a>
 
 <a href="https://repl.it/@Serega89Kh/Fact">Факториал</a>
+
+<a href="https://github.com/Serega89Kh/py18-10">Лабортаторная работа 18-10</a>
