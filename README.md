@@ -12,3 +12,5 @@
 <a href="https://repl.it/@Serega89Kh/function17">Самостоятельная работа 2.4(1)</a>
 
 <a href="https://repl.it/@Serega89Kh/function18">Самостоятельная работа 2.4(2)</a>
+
+<a href="https://repl.it/@Serega89Kh/Fact">Факториал</a>
