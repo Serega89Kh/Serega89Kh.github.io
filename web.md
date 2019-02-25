@@ -17,7 +17,7 @@
 
 <a href="https://kodaktor.ru/03112018_8444e">Коллбэки</a>
 
-<a href="hhttps://kodaktor.ru/async_tasks_c3219">Введение в DOM</a>
+<a href="https://kodaktor.ru/async_tasks_c3219">Введение в DOM</a>
 
 <a href="https://kodaktor.ru/iremove_8991d">Всплывание</a>
 
