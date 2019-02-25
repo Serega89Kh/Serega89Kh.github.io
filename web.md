@@ -17,6 +17,8 @@
 
 <a href="https://repl.it/@Serega89Kh/stringsarrays">Строки и массивы</a>
 
+<a href="https://kodaktor.ru/03112018_e2b76">Fetch</a>
+
 <a href="https://kodaktor.ru/03112018_8444e">Коллбэки</a>
 
 <a href="https://kodaktor.ru/async_tasks_c3219">Введение в DOM</a>
