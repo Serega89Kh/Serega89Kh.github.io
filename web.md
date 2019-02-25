@@ -13,6 +13,8 @@
 
 <a href="https://kodaktor.ru/task_func_6ee45">Введение в XSL (Задание 2.2)</a>
 
+<a href="https://kodaktor.ru/2c4cefb_83bb7">Счетчик</a>
+
 <a href="https://repl.it/@Serega89Kh/stringsarrays">Строки и массивы</a>
 
 <a href="https://kodaktor.ru/03112018_8444e">Коллбэки</a>
