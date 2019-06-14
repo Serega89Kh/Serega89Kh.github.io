@@ -28,6 +28,8 @@
 
 <a href="https://yadi.sk/i/pgAhSeOro81ibg">Храмов Сергей, Тема 3. Система компьютерной алгебры Scilab, ИСР, Задание 3.1</a>
 
+<a href="https://app.mindmup.com/map/_free/2019/06/94bf6fe08ef011e98aca07bd0c18bcff">Храмов Сергей, Тема 3. Система компьютерной алгебры Scilab, ИСР, Задание 3.2</a>
+
 <a href="https://yadi.sk/i/xu-OtJEQPuKH7A">Храмов Сергей, Тема 3. Система компьютерной алгебры Scilab, ВСР, Задание 3.1(1)</a>
 
 <a href="https://yadi.sk/i/kHRVhgcR9BG3rg">Храмов Сергей, Тема 3. Система компьютерной алгебры Scilab, ВСР, Задание 3.2(1)</a>
