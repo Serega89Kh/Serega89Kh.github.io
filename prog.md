@@ -1,5 +1,7 @@
 # Портфолио Храмова Сергея, дисциплина "Программирование"
 
+<a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/BIO.md">Портфолио с помощью Markdown</a>
+
 Введение в Python и основы синтаксиса
 
 * <a href="https://repl.it/@Serega89Kh/Truth-table">Лабораторная работа 2</a>
