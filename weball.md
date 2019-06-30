@@ -56,6 +56,8 @@
 
 * <a href="https://kodaktor.ru/g/cart">CART</a>
 
+<a href="https://kodaktor.ru/g/custom_d4cd9">Результат</a>
+
 * <a href="https://kodaktor.ru/frmw_001">frmw_001</a>
 
 * <a href="https://kodaktor.ru/frmw_002">frmw_002</a>
