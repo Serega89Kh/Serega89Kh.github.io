@@ -44,6 +44,8 @@
 
 * <a href="https://kodaktor.ru/evnt_002">EVNT_002</a>
 
+<a href="https://kodaktor.ru/custom_45da5">Результат</a>
+
 * <a href="https://kodaktor.ru/evnt_003">EVNT_003</a>
 
 * <a href="https://kodaktor.ru/bind02032018">BABL_002</a>
