@@ -22,6 +22,8 @@
 
 * <a href="https://kodaktor.ru/func_001">FUNC-001</a>
 
+<a href="https://kodaktor.ru/task_func_bf01d">Результат</a>
+
 * <a href="https://kodaktor.ru/func_002">FUNC-002</a>
 
 * <a href="https://kodaktor.ru/func_003">FUNC-003</a>
