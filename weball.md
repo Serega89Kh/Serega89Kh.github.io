@@ -26,15 +26,27 @@
 
 * <a href="https://kodaktor.ru/func_002">FUNC-002</a>
 
+<a href="https://kodaktor.ru/func_b41e7">Результат</a>
+
 * <a href="https://kodaktor.ru/func_003">FUNC-003</a>
+
+<a href="https://kodaktor.ru/func_14a94">Результат</a>
 
 * <a href="https://kodaktor.ru/func_004">FUNC-004</a>
 
+<a href="https://kodaktor.ru/func_16407">Результат</a>
+
 * <a href="https://kodaktor.ru/func_005">FUNC-005</a>
+
+<a href="https://kodaktor.ru/func_f841f">Результат</a>
 
 * <a href="https://kodaktor.ru/func_006">FUNC-006</a>
 
+<a href="https://kodaktor.ru/func_38c1b">Результат</a>
+
 * <a href="https://kodaktor.ru/func_007">FUNC-007</a>
+
+<a href="">Результат</a>
 
 * <a href="https://kodaktor.ru/func_008">FUNC-008</a>
 
