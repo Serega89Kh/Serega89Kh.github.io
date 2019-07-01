@@ -18,8 +18,6 @@
 
 * <a href="https://kodaktor.ru/g/json_intro">JSON_intro</a>
 
-* <a href="https://kodaktor.ru/g/func">FUNC-001 ... FUNC-010</a>
-
 * <a href="https://kodaktor.ru/func_001">FUNC-001</a>
 
 <a href="https://kodaktor.ru/task_func_bf01d">Результат</a>
@@ -46,15 +44,23 @@
 
 * <a href="https://kodaktor.ru/func_007">FUNC-007</a>
 
-<a href="">Результат</a>
+<a href="https://kodaktor.ru/func_d91af">Результат</a>
 
 * <a href="https://kodaktor.ru/func_008">FUNC-008</a>
 
+<a href="https://kodaktor.ru/zzzzzzz_a0f4a">Результат</a>
+
 * <a href="https://kodaktor.ru/func_009">FUNC-009</a>
+
+<a href="https://kodaktor.ru/func_2ac99">Результат</a>
 
 * <a href="https://kodaktor.ru/func_010">FUNC-010</a>
 
+<a href="">Результат</a>              -
+
 * <a href="https://kodaktor.ru/g/ips_task">IPS_TASK</a>
+
+<a href="">Результат</a>             -
 
 * <a href="https://kodaktor.ru/evnt_002">EVNT_002</a>
 
@@ -62,25 +68,47 @@
 
 * <a href="https://kodaktor.ru/evnt_003">EVNT_003</a>
 
+<a href="">Результат</a>        -
+
 * <a href="https://kodaktor.ru/bind02032018">BABL_002</a>
+
+<a href="https://kodaktor.ru/bind02032018_06736">Результат</a>
 
 * <a href="https://kodaktor.ru/g/bndl_001">BNDL_001</a>
 
+<a href="https://serega89kh.github.io/moment_bundle">Результат</a>
+
 * <a href="https://kodaktor.ru/g/cart">CART</a>
+
+<a href="">Результат</a>
 
 * <a href="https://kodaktor.ru/frmw_001">frmw_001</a>
 
+<a href="">Результат</a>
+
 * <a href="https://kodaktor.ru/frmw_002">frmw_002</a>
+
+<a href="">Результат</a>
 
 * <a href="https://kodaktor.ru/frmw_003">frmw_003</a>
 
+<a href="">Результат</a>
+
 * <a href="https://kodaktor.ru/frmw_004">frmw_004</a>
+
+<a href="">Результат</a>
 
 * <a href="https://kodaktor.ru/frmw_005">frmw_005</a>
 
+<a href="">Результат</a>
+
 * <a href="https://kodaktor.ru/you">YOU</a>
 
+<a href="">Результат</a>
+
 * <a href="http://kodaktor.ru/cnvs/lr_canvas_rates.pdf">CANV_001</a>
+
+<a href="">Результат</a>
 
 <a href="http://kodaktor.ru/cnvs/theory">Теория по канвас</a>
 
@@ -88,10 +116,17 @@
 
 * <a href="http://kodaktor.ru/sss/t4-2.pdf">Сессии (Node.js)</a>
 
+<a href="">Результат</a>
+
 * <a href="https://moodle.herzen.spb.ru/pluginfile.php/228455/mod_resource/content/1/lr.pdf">PHP – файлы и изображения
 </a>
 
+<a href="">Результат</a>
+
 * <a href="https://moodle.herzen.spb.ru/pluginfile.php/228177/mod_resource/content/1/lrfiles.pdf">Добавление и чтение записей файла в PHP</a>
+
+<a href="">Результат</a>
 
 * <a href="https://github.com/GossJS/mailer">Mailer</a>
 
+<a href="">Результат</a>
