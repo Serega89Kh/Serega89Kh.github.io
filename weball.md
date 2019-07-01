@@ -18,6 +18,10 @@
 
 * <a href="https://kodaktor.ru/g/json_intro">JSON_intro</a>
 
+<a href="https://kodaktor.ru/6c9f98f_0d3a6">Результат(JSON)</a>
+
+<a href="https://kodaktor.ru/6c9f98f_c820b">Результат(Schema)</a>
+
 * <a href="https://kodaktor.ru/func_001">FUNC-001</a>
 
 <a href="https://kodaktor.ru/task_func_bf01d">Результат</a>
