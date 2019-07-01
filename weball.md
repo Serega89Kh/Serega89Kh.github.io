@@ -54,7 +54,7 @@
 
 <a href="https://kodaktor.ru/func_2ac99">Результат</a>
 
-* <a href="https://kodaktor.ru/func_010">FUNC-010</a>
+* <a href="https://kodaktor.ru/func_1923c">FUNC-010</a>
 
 <a href="https://kodaktor.ru/func_21dcd">Результат</a>             
 
@@ -100,7 +100,7 @@
  
 * <a href="https://kodaktor.ru/frmw_005">frmw_005</a>
 
-<a href="">Результат</a>
+<a href="">Результат</a> -
 
 * <a href="https://kodaktor.ru/you">YOU</a>
 
