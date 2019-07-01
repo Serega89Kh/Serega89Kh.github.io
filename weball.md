@@ -84,7 +84,7 @@
 
 * <a href="https://kodaktor.ru/frmw_001">frmw_001</a>
 
-<a href="">Результат</a>
+<a href="https://kodaktor.ru/react_state_9a797">Результат</a>
 
 * <a href="https://kodaktor.ru/frmw_002">frmw_002</a>
 
