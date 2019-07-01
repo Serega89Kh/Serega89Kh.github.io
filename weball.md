@@ -108,9 +108,7 @@
 
 * <a href="http://kodaktor.ru/cnvs/lr_canvas_rates.pdf">CANV_001</a>
  
-<a href="">Результат</a>                  -
-
-<a href="http://kodaktor.ru/cnvs/theory">Теория по канвас</a>
+<a href="https://kodaktor.ru/canvas_e6e6c">Результат</a>    
 
 --- серверные  --- 
 
