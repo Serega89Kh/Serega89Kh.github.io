@@ -56,7 +56,7 @@
 
 * <a href="https://kodaktor.ru/func_010">FUNC-010</a>
 
-<a href="">Результат</a>              -
+<a href="https://kodaktor.ru/func_21dcd">Результат</a>             
 
 * <a href="https://kodaktor.ru/g/ips_task">IPS_TASK</a>
 
@@ -84,7 +84,7 @@
 
 * <a href="https://kodaktor.ru/frmw_001">frmw_001</a>
 
-<a href="https://kodaktor.ru/react_state_9a797">Результат</a>
+<a href="https://kodaktor.ru/react_state_7a8f4">Результат</a>
 
 * <a href="https://kodaktor.ru/frmw_002">frmw_002</a>
 
