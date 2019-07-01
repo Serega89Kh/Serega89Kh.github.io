@@ -84,7 +84,7 @@
 
 * <a href="https://kodaktor.ru/g/cart">CART</a>
 
-<a href="https://kodaktor.ru/custom_74685">Результат</a>                     -
+<a href="https://kodaktor.ru/custom_74685">Результат</a>                     
 
 * <a href="https://kodaktor.ru/frmw_001">frmw_001</a>
 
