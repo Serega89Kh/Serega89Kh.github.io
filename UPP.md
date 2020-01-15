@@ -38,7 +38,7 @@
 
 3.2. Лекция 6
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">Лабораторная работа 12, 13</a> \
+* <a href="https://yadi.sk/i/y7efE3fDMH3t6Q">Лабораторная работа 12, 13</a>
 
 Тема 4. ПО управления проектами
 
