@@ -8,7 +8,7 @@
 
 1.1. Лекция 1
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/ISR.md">Лабораторная работа 1, 2, 3. Диаграмма ГантаГиперссылка</a> 
+* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/ISR.md">Лабораторная работа 1, 2, 3. Диаграмма Ганта</a> 
 
 Тема 2. Организация процесса разработки
 
