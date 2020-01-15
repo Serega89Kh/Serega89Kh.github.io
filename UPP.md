@@ -12,17 +12,17 @@
 
 Тема 2. Организация процесса разработки
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/ISR.md">ИСР</a> \ 
+* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t2-Serega89Kh/blob/master/ISR.md">ИСР</a> \ 
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">ВСР</a> \
+* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t2-Serega89Kh/blob/master/VSR.md">ВСР</a> \
 
 2.1. Лекция 3
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">Лабораторная работа 4, 5, 6. Макет</a> \
+* <a href="https://github.com/ctel-prj-mng/2-wireframe-130218-Serega89Kh/blob/master/wireframe.md">Лабораторная работа 4, 5, 6. Макет</a>
 
 2.2. Лекция 4
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">Лабораторная работа 7, 8, 9. ТЗ</a> \
+* <a href="https://github.com/ctel-prj-mng/3-tz-200218-Serega89Kh/blob/master/requirements.md">Лабораторная работа 7, 8, 9. ТЗ</a>
 
 Тема 3. Планирование программного проекта
 
@@ -32,7 +32,9 @@
 
 3.1. Лекция 5
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">Лабораторная работа 10, 11</a> \
+* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">Лабораторная работа 10</a> \
+
+* <a href="https://github.com/Serega89Kh/test-pull-req">Лабораторная работа 11</a>
 
 3.2. Лекция 6
 
