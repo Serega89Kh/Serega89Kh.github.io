@@ -26,7 +26,7 @@
 
 Тема 3. Планирование программного проекта
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t3-Serega89Kh/blob/master/ISR.md">ИСР</a> \ 
+* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t3-Serega89Kh/blob/master/ISR.md">ИСР</a>
 
 * <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">ВСР</a> \
 
