@@ -48,4 +48,4 @@
 
 4.1. Лекция 7 
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">Лабораторная работа 14</a> \
+* <a href="https://github.com/ctel-prj-mng/kiteo-employees/pulls">Лабораторная работа 14</a>
