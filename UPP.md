@@ -28,7 +28,7 @@
 
 * <a href="https://github.com/ctel-prj-mng/3-ivt-17-t3-Serega89Kh/blob/master/ISR.md">ИСР</a>
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">ВСР</a> \
+* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t3-Serega89Kh/blob/master/VSR.md">ВСР</a> \
 
 3.1. Лекция 5
 
@@ -42,9 +42,9 @@
 
 Тема 4. ПО управления проектами
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/ISR.md">ИСР</a> \ 
+* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t4-Serega89Kh/blob/master/ISR.md">ИСР</a> \ 
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">ВСР</a> \
+* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t4-Serega89Kh/blob/master/VSR.md">ВСР</a> \
 
 4.1. Лекция 7 
 
