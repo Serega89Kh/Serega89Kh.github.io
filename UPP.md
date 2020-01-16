@@ -32,7 +32,7 @@
 
 3.1. Лекция 5
 
-* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">Лабораторная работа 10</a> \
+* <a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">Лабораторная работа 10</a>
 
 * <a href="https://github.com/Serega89Kh/test-pull-req">Лабораторная работа 11</a>
 
