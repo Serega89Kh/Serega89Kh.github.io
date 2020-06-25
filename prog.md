@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/BIO.md">Портфолио с помощью Markdown</a>
 
-Введение в Python и основы синтаксиса
+Тема 1. Введение в Python и основы синтаксиса
 
 * <a href="https://repl.it/@Serega89Kh/Truth-table">Лабораторная работа 2</a>
 
@@ -14,7 +14,7 @@
 
 * <a href="https://repl.it/@Serega89Kh/20-09-18">Лабораторная работа №3</a>
 
-Функции в Python
+Тема 2. Функции в Python
 
 * <a href="https://repl.it/@Serega89Kh/function17">Самостоятельная работа 2.4(1)</a>
 
@@ -24,7 +24,9 @@
 
 * <a href="https://github.com/Serega89Kh/py18-10">Лабортаторная работа 18-10</a>
 
-Тестирование
+Тема 3. Строки
+
+Тема 4. Тестирование
 
 * <a href="">Инвариантная самостоятельная работа</a> -
 
