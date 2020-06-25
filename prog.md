@@ -24,7 +24,9 @@
 
 * <a href="https://repl.it/@Serega89Kh/Fact">Факториал</a>
 
-* <a href="https://github.com/Serega89Kh/py18-10">Лабортаторная работа 18-10</a>
+* <a href="https://github.com/Serega89Kh/py18-10">ЛР18-10</a>
+
+* <a href="">ВСР</a> -
 
 Тема 3. Строки
 
@@ -36,11 +38,7 @@
 
 Тема 4. Тестирование
 
-* <a href="">Инвариантная самостоятельная работа</a> -
-
-* <a href="https://yadi.sk/i/ph-UjibYs4awrQ">Вариативная самостоятельная работа(1)</a>
-
-* <a href="">Вариативная самостоятельная работа(2)</a> -
+* <a href="https://yadi.sk/i/ph-UjibYs4awrQ">ВСР</a>
 
 ### 4 семестр
 
