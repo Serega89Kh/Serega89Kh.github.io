@@ -6,9 +6,7 @@
 
 Тема 1. Введение в Python и основы синтаксиса
 
-* <a href="https://repl.it/@Serega89Kh/Truth-table">Лабораторная работа 2</a>
-
-* <a href="https://repl.it/@Serega89Kh/Template-for-assignment-1">Самостоятельная работа №2(1)</a>
+* <a href="https://repl.it/@Serega89Kh/ISR31">ИСР</a>
 
 * <a href="https://repl.it/@Serega89Kh/Template-for-assignment-1-1">Самостоятельная работа №2(2)</a>
 
@@ -16,15 +14,25 @@
 
 Тема 2. Функции в Python
 
-* <a href="https://repl.it/@Serega89Kh/function17">Самостоятельная работа 2.4(1)</a>
+* <a href="https://repl.it/@Serega89Kh/Truth-table">Лабораторная работа 2</a>
 
-* <a href="https://repl.it/@Serega89Kh/function18">Самостоятельная работа 2.4(2)</a>
+* <a href="https://repl.it/@Serega89Kh/Template-for-assignment-1">Самостоятельная работа №2(1)</a>
+
+* <a href="https://repl.it/@Serega89Kh/function17">ИСР(1)</a>
+
+* <a href="https://repl.it/@Serega89Kh/function18">ИСР(2)</a>
 
 * <a href="https://repl.it/@Serega89Kh/Fact">Факториал</a>
 
 * <a href="https://github.com/Serega89Kh/py18-10">Лабортаторная работа 18-10</a>
 
 Тема 3. Строки
+
+* <a href="https://docs.google.com/document/d/1k3K7xgQO-Vuf0lYZpUaY1SRomlIv71sofy2ln4d8o5Q">ИСР3.1</a>
+
+* <a href="https://repl.it/@Serega89Kh/ISR33">ИСР</a>
+
+* <a href="">ВСР</a> -
 
 Тема 4. Тестирование
 
