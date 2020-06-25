@@ -32,7 +32,7 @@
 
 * <a href="https://repl.it/@Serega89Kh/ISR33">ИСР</a>
 
-* <a href="">ВСР</a> -
+* <a href="https://repl.it/@Serega89Kh/VSR33">ВСР</a>
 
 Тема 4. Тестирование
 
