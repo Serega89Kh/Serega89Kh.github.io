@@ -14,7 +14,7 @@
 
 ### 2 курс
 
-<a href="">Анализ данных</a>
+<a href="https://serega89kh.github.io/2kurs/Analis/Analis">Анализ данных</a>
 
 <a href="">Базы данных</a>
 
