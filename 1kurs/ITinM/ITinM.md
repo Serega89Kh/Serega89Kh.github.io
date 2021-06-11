@@ -12,7 +12,7 @@
 
 <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/1kurs/ITinM/%D0%A5%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%2C%20maxima_5.wxmx">Лабораторная работа 5</a>
 
-<a href="hhttps://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/1kurs/ITinM/%D0%A5%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%2C%20maxima_6.wxmx">Лабораторная работа 6</a>
+<a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/1kurs/ITinM/%D0%A5%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%2C%20maxima_6.wxmx">Лабораторная работа 6</a>
 
 <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/1kurs/ITinM/%D0%A5%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%2C%20maxima_7.wxmx">Лабораторная работа 7</a>
 
