@@ -1,0 +1,19 @@
+
+Name: Сборка и тестирование компьютеров
+Number: 2
+
+Name: Отслеживание расписания  и управление сборкой и тестированием
+Number:   21
+Rashod elektoenergii: 10,00
+
+Name: Сборка настольных  компьютеров
+Number:   22
+Rashod elektoenergii: 20,00
+
+Name: Сборка ноутбуков
+Number:   23
+Rashod elektoenergii: 25,00
+
+Name: Тестирование компьютеров
+Number:   24
+Rashod elektoenergii: 40,00
