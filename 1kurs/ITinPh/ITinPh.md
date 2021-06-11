@@ -15,3 +15,5 @@
 <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/tree/master/1kurs/ITinPh/lr6">Лабораторная работа 6</a>
 
 <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/tree/master/1kurs/ITinPh/lr7">Лабораторная работа 7</a>
+
+### <a href="https://serega89kh.github.io">Вернутся назад</a>
