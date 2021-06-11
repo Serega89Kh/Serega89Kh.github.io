@@ -4,6 +4,8 @@
 
 <a href="https://serega89kh.github.io/1kurs/informatika/informatika">Информатика</a>
 
+<a href="https://serega89kh.github.io/1kurs/IT/IT">Информационные технологии</a>
+
 <a href="https://serega89kh.github.io/1kurs/ITinPh/ITinPh">Информационные технологии в физике</a>
 
 <a href="https://serega89kh.github.io/1kurs/ITinM/ITinM">Информационные технологии в математике</a>
