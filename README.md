@@ -2,7 +2,7 @@
 
 ### 1 курс
 
-<a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/1kurs/informatika/informatika.md">Информатика</a>
+<a href="https://serega89kh.github.io/1kurs/informatika/informatika">Информатика</a>
 
 <a href="https://serega89kh.github.io/web">Информационные технологии в физике</a>
 
