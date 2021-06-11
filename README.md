@@ -8,7 +8,7 @@
 
 <a href="https://serega89kh.github.io/1kurs/ITinM/ITinM">Информационные технологии в математике</a>
 
-<a href="">Программирование</a>
+<a href="https://serega89kh.github.io/1kurs/prog/prog">Программирование</a>
 
 ### 2 курс
 
