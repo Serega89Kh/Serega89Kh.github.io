@@ -6,7 +6,7 @@
 
 <a href="https://serega89kh.github.io/1kurs/ITinPh/ITinPh">Информационные технологии в физике</a>
 
-<a href="">Информационные технологии в математике</a>
+<a href="https://serega89kh.github.io/1kurs/ITinM/ITinM">Информационные технологии в математике</a>
 
 <a href="">Программирование</a>
 
