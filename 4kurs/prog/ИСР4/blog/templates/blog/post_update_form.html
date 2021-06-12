@@ -1,0 +1,27 @@
+{% extends 'blog/base_blog.html' %}
+
+{% block title %}
+    Обновить запись "{{ post.title }}"- {{ block.super }}
+{% endblock %}
+
+
+{% block content %}
+
+    <form action="{{ post.get_update_url }}" method="post">
+        {% csrf_token %}
+
+        {% for field in form %}
+            <div>
+                {% if field.errors %}
+                    <div>
+                        {{ field.errors }}
+                    </div>
+                {% endif %}
+                {{ field }}
+            </div>
+        {% endfor %}
+        <button>Обновить запись</button>
+    </form>
+
+
+{% endblock %}
