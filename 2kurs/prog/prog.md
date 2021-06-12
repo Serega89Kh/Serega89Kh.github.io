@@ -8,7 +8,7 @@
 
 * <a href="https://repl.it/@Serega89Kh/ISR31">ИСР</a>
 
-* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/VSR31">ВСР</a>
+* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/VSR31.md">ВСР</a>
 
 * <a href="https://repl.it/@Serega89Kh/Template-for-assignment-1-1">Самостоятельная работа №2(2)</a>
 
