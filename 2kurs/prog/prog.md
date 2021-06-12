@@ -32,7 +32,7 @@
 
 Тема 3. Строки
 
-* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/ISR331">ИСР3.1</a>
+* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/ISR331.md">ИСР3.1</a>
 
 * <a href="https://repl.it/@Serega89Kh/ISR33">ИСР</a>
 
@@ -71,11 +71,11 @@
 
 Тема 1. Модули. Пакеты
 
-* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/ISR511">ИСР1</a>
+* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/ISR511.md">ИСР1</a>
 
 * <a href="https://repl.it/@Serega89Kh/ISR512">ИСР2</a>
 
-* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/VSR51">ВСР</a>
+* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/VSR51.md">ВСР</a>
 
 * <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/VSR51.html">ВСР(html)</a>
 
@@ -89,9 +89,9 @@
 
 Тема 3. Введение в ООА, шаблоны проектирования
 
-* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/ISR53">ИСР</a>
+* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/ISR53.md">ИСР</a>
 
-* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/VSR53">ВСР</a>
+* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/VSR53.md">ВСР</a>
 
 * <a href="https://repl.it/@Serega89Kh/blog#main.py">Блог</a>
 
@@ -124,7 +124,7 @@
 
 Тема 4. Виртуальное окружение (virtualenv, pipenv, pyenv)
 
-* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/VSR64">ИСР</a>
+* <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/2kurs/prog/VSR64.md">ИСР</a>
 
 * <a href="https://drive.google.com/drive/folders/1iJeruEcCxcYBJomDme42A2YugPNiiQFk?usp=sharing">ВСР</a>
 
