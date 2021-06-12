@@ -26,7 +26,7 @@
 
 <a href="https://serega89kh.github.io/2kurs/oska/oska">Основы компьютерной алгебры</a>
 
-<a href="https://serega89kh.github.io/2kurs/oskg/oskg">Основы компьютерной графики</a>
+<a href="https://serega89kh.github.io/2kurs/oskg/oskg">Математические основы компьютерной графики</a>
 
 <a href="https://serega89kh.github.io/2kurs/prog/prog">Программирование</a>
 
