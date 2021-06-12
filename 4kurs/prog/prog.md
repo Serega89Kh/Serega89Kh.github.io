@@ -28,4 +28,6 @@
 
 <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/tree/master/4kurs/prog/%D0%92%D0%A1%D0%A043">ВСР4</a>
 
+<a href="https://github.com/Serega89Kh/Serega89Kh.github.io/tree/master/4kurs/prog/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82">Проект</a>
+
 ### <a href="https://serega89kh.github.io">Вернутся назад</a>
