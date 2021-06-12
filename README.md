@@ -52,7 +52,7 @@
 
 <a href="https://serega89kh.github.io/3kurs/YPP/YPP">Управление программными проектами</a>
 
-<a href="https://github.com/Serega89Kh/micromir">Управление программными проектами</a>
+<a href="https://github.com/Serega89Kh/micromir">Проект "Жизненный цикл микроорганизма"</a>
 
 ### 4 курс
 
