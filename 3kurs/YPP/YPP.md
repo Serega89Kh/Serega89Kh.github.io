@@ -14,8 +14,6 @@
 
 <a href="https://github.com/ctel-prj-mng/3-ivt-17-t3-Serega89Kh/blob/master/ISR.md">Тема 3. Планирование программного проекта</a>
 
-<a href="https://github.com/ctel-prj-mng/3-ivt-17-t1-Serega89Kh/blob/master/VSR.md">Лабораторная работа 10</a>
-
 <a href="https://github.com/Serega89Kh/test-pull-req">Лабораторная работа 11</a>
 
 <a href="https://yadi.sk/i/y7efE3fDMH3t6Q">Лабораторная работа 12, 13</a>
