@@ -24,7 +24,7 @@
 
 <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/3kurs/seti/%D0%9B%D0%A011%2C%20%D0%98%D0%92%D0%A2%203%2C%20%D0%A5%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9.docx">Лабораторная работа 11</a>
 
-<a href=https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/3kurs/seti/%D0%9B%D0%A012%2C%20%D0%98%D0%92%D0%A2%203%2C%20%D0%A5%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9.docx"">Лабораторная работа 12</a>
+<a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/3kurs/seti/%D0%9B%D0%A012%2C%20%D0%98%D0%92%D0%A2%203%2C%20%D0%A5%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9.docx">Лабораторная работа 12</a>
 
 <a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/3kurs/seti/%D0%9B%D0%A013%2C%20%D0%98%D0%92%D0%A2%203%2C%20%D0%A5%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9.docx">Лабораторная работа 13</a>
 
