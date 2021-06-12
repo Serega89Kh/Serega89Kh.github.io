@@ -1,0 +1,51 @@
+% "Лабораторная работа 2"
+
+\documentclass[a4paper,12pt]{article} % тип документа
+
+% report, book
+
+%  Русский язык
+
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+
+
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+\usepackage{wasysym}
+\usepackage{hyperref}
+
+%Заговолок
+\author{Храмов Сергей, ИВТ 3}
+\title{Таблица интегралов и дифференциалов{}}
+\date{\today}
+
+
+\begin{document} % начало документа
+\maketitle
+\begin{tabular}{ | l | l | }
+\hline
+Интегралы & Дифференциалы \\ \hline
+$\int 0 \cdot \partial x =C$ & $\partial (c) = 0, c = const$ \\
+$\int 1 \cdot \partial x = \int \partial x = x + C$ & $\partial (x^{n}) = nx^{n-1}\partial x$ \\ 
+$\int x^{n} \partial x = \frac{x^{n + 1}}{n + 1} + C, n \neq -1, x>0$ & $\partial (a^{x}) = a^{x} \cdot \ln a \partial x$ \\
+$\int \frac{\partial x}{x} = \ln|x| + C$&  $\partial (e^{x}) = e^{x}\partial x$ \\
+$\int a^{x} \partial x = \frac{a^{x}}{\ln a} + C, a > 0$ &  $\partial (\log_{a}x) = \frac{\partial x}{x\ln a}$ \\
+$\int e^{x} \partial x = e^{x} + C  $ & $\partial (\ln x) = \frac{\partial x}{x}$\\
+$\int \cos x \partial x = \sin x + C  $ & $\partial (\sin x) = \cos x \partial x$ \\
+$\int \sin x \partial x = -\cos x + C  $ & $\partial (\cos x) = - \sin x \partial x$\\
+$\int \frac{\partial x}{\cos^{2}x} = \tg x + C  $ & $\partial (\sqrt{x}) = \frac{\partial x}{2\sqrt{x}}$\\
+$\int \frac{\partial x}{\sin^{2}x} = -\ctg x + C  $ & $\partial (\tg{x}) = \frac{\partial x}{\cos^{2} x}$\\
+$\int \frac{\partial x}{\sqrt{a^2 - x^{2}}} = \arcsin \frac{x}{a} + C $ & $\partial (\ctg{x}) = - \frac{\partial x}{\sin^{2} x}$\\
+$\int \frac{\partial x}{{a^2 + x^{2}}} = \frac{1}{a}\arctg \frac{x}{a} + C  $ & $\partial (\arcsin{x}) = \frac{\partial x}{\sqrt{1 - x^{2}}}$\\
+& $\partial (\arccos{x}) = - \frac{\partial x}{\sqrt{1 - x^{2}}}$\\
+& $\partial (\arctg{x}) = \frac{\partial x}{1 + x^{2}}$\\
+& $\partial (\arcctg{x}) = - \frac{\partial x}{1 + x^{2}}$\\
+
+
+
+\hline
+
+\end{tabular}
+\end{document} % конец документа
