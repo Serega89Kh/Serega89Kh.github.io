@@ -30,6 +30,8 @@
 
 <a href="">Программирование</a>
 
+<a href="https://github.com/Serega89Kh/Serega89Kh.github.io/tree/master/2kurs/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0">Курсовая работа по дисциплине "Технологии компьютерного моделирования"</a>
+
 ### 3курс
 
 <a href="https://serega89kh.github.io/3kurs/zi/zi">Защита информации</a>
