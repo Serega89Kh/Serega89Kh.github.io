@@ -63,3 +63,5 @@
 <a href="">Программирование</a>
 
 <a href="https://serega89kh.github.io/4kurs/sip/sip">Социальные и профессиональные вопросы информатики и ИТ</a>
+
+<a href="https://github.com/Serega89Kh/Serega89Kh.github.io/blob/master/4kurs/Kursovaya_rabota_EIOS_Khramov_Sergey_IVT4.pdf">Курсовая работа по дисциплине "Организация электронной образовательной среды"</a>
