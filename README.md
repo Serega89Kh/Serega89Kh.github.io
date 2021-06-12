@@ -52,6 +52,8 @@
 
 <a href="https://serega89kh.github.io/3kurs/YPP/YPP">Управление программными проектами</a>
 
+<a href="https://github.com/Serega89Kh/micromir">Управление программными проектами</a>
+
 ### 4 курс
 
 <a href="https://serega89kh.github.io/4kurs/IT/IT">IT-рекрутмент</a>
