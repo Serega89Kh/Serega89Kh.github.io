@@ -12,57 +12,52 @@
 
 <a href="https://serega89kh.github.io/1kurs/prog/prog">Программирование</a>
 
+<a href="https://serega89kh.github.io/1kurs/evm/evm">ЭВМ и периферийные устройства</a>
+
 ### 2 курс
 
 <a href="https://serega89kh.github.io/2kurs/Analis/Analis">Анализ данных</a>
 
-<a href="">Базы данных</a>
+<a href="https://serega89kh.github.io/2kurs/vm/vm">Вычислительная математика</a>
 
-<a href="">Вычислительная математика</a>
+<a href="https://serega89kh.github.io/2kurs/itrzo/itrzo">Информационные технологии в решении задач оптимизации</a>
 
-<a href="">Основы бизнес-информатики</a>
+<a href="https://serega89kh.github.io/2kurs/biznes/biznes">Основы бизнес-информатики</a>
 
-<a href="">Основы компьютерной алгебры</a>
+<a href="https://serega89kh.github.io/2kurs/oska/oska">Основы компьютерной алгебры</a>
 
-<a href="">Основы компьютерной графики</a>
+<a href="https://serega89kh.github.io/2kurs/oskg/oskg">Основы компьютерной графики</a>
 
 <a href="">Программирование</a>
-
-<a href="">Технологии компьютерного моделирования</a>
 
 ### 3курс
 
-<a href="">Защита информации</a>
+<a href="https://serega89kh.github.io/3kurs/zi/zi">Защита информации</a>
 
-<a href="">Информационные технологии и системы бизнес-аналитики</a>
+<a href="https://serega89kh.github.io/3kurs/izs/isz">Интегрированные издательские системы</a>
 
-<a href="">ИТ в экономике и управлении</a>
+<a href="https://serega89kh.github.io/3kurs/ITiSB/ITiSB">Информационные технологии и системы бизнес-аналитики</a>
 
-<a href="">Прикладные информационные технологии</a>
+<a href="https://serega89kh.github.io/3kurs/ITiEY/ITiEY">Информационные технологии в экономике и управлении</a>
+
+<a href="https://serega89kh.github.io/3kurs/pIT/pIT">Прикладные информационные технологии</a>
 
 <a href="">Программирование</a>
 
-<a href="">Сети и телекоммуникации</a>
+<a href="https://serega89kh.github.io/3kurs/seti/seti">Сети и телекоммуникации</a>
 
-<a href="">Управление программными проектами</a>
+<a href="https://serega89kh.github.io/3kurs/ttppi/ttppi">Техника и технологии представления и публикации информации</a>
+
+<a href="https://serega89kh.github.io/3kurs/YPP/YPP">Управление программными проектами</a>
 
 ### 4 курс
 
-<a href="">IT-рекрутмент</a>
+<a href="https://serega89kh.github.io/4kurs/IT/IT">IT-рекрутмент</a>
 
-<a href="">Мировые информационные ресурсы и цифровые библиотеки</a>
+<a href="https://serega89kh.github.io/4kurs/itop/itop">Информационные технологии оценки персонала</a>
+
+<a href="https://serega89kh.github.io/4kurs/mircb/mircb">Мировые информационные ресурсы и цифровые библиотеки</a>
 
 <a href="">Программирование</a>
 
-<a href="">Социальные и профессиональные вопросы информатики и ИТ</a>
-<!---
-<a href="https://serega89kh.github.io/web">Портфолио Храмова Сергея, дисциплина "Веб-проектирование и веб-языки"</a>
-
-<a href="https://serega89kh.github.io/prog">Портфолио Храмова Сергея, дисциплина "Программирование"</a>
-
-<a href="https://serega89kh.github.io/oka">Портфолио Храмова Сергея, дисциплина "Основы компьютерной алгебры"</a>
-
-<a href="https://serega89kh.github.io/weball">Портфолио Храмова Сергея, модуль "Проектирование и разработка веб-решений"</a>
-
-<a href="https://serega89kh.github.io/UPP">Портфолио Храмова Сергея, дисциплина "Управление программными проектами"</a>
--->
+<a href="https://serega89kh.github.io/4kurs/sip/sip">Социальные и профессиональные вопросы информатики и ИТ</a>
