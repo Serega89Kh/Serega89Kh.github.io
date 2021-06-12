@@ -60,7 +60,7 @@
 
 <a href="https://serega89kh.github.io/4kurs/mircb/mircb">Мировые информационные ресурсы и цифровые библиотеки</a>
 
-<a href="">Программирование</a>
+<a href="https://serega89kh.github.io/4kurs/prog/prog">Программирование</a>
 
 <a href="https://serega89kh.github.io/4kurs/sip/sip">Социальные и профессиональные вопросы информатики и ИТ</a>
 
